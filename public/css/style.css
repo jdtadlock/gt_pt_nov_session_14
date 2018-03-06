@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	margin-right: 5px;
+}
+
+.container {
+	padding: 25px 5%;
+}
+
+.row, .column {
+	display: flex;
+} 
+
+.column {
+	flex-direction: column;
+}
+
+.split {
+	justify-content: space-between;
+}
+
+.y-center {
+	align-items: center;
+}
+
+header {
+	background: #444;
+	color: #fff;
+	padding: 8px 5%;
+}
+
+.person {
+	background: #555;
+	color: #fff;
+	padding: 10px;
+	margin: 5px;
+}
+
+.product {
+	margin: 5px 0;
+}
+
+
+
+
+
+
+
+
+

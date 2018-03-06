@@ -1,0 +1,4 @@
+- ORM
+- Handlebars
+- Routing -> Front to Back
+- Add link to video about setting up MySQL CLI on Windows
